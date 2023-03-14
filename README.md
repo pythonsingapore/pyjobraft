@@ -2,17 +2,23 @@
 
 # Job Search Support Group - PyJobRaft (Raft refers to a group of Ottters resting together)
 
+# Sponsors
+- [Python User Group Singapore](https://pugs.org.sg/)
+- [Red Hat](https://www.redhat.com/en/authors/red-hat-asia-pacific-team)
+- [JobTech](https://jobtech.co/)
+
 # Organising Team
 
-- Max
-- Karen Kee - Volunteer to help
-- Harish Navnit -  Volunteer to help
+- **Max Ong** - Main organizer and Founder of [Upskillcycle](https://www.upskillcycle.com/)
+- **Karen Kee** - Volunteer
+- **Harish Navnit** -  Volunteer
 
 # Support From
 
-- Koo Ping Shung - Help to offer advice from a Data Science perspective in each session
-- Li Ming - Has helped us to secure a venue to conduct 3 sessions at Red Hat office and also share his experience.
-- Michael - Provides the technology for career guidance from JobTech for individuals to upload their resumes and gain clarity in their job search.
+- **Koo Ping Shung** - Help to offer advice from a **Data Science** perspective in each session
+- **Li Ming** - Has helped us to secure a venue to conduct 3 sessions at [Red Hat](https://www.redhat.com/en/authors/red-hat-asia-pacific-team) office and also share his experience.
+- **Michael** - Provides the technology for career guidance from [JobTech](https://jobtech.co/) for individuals to upload their resumes and gain clarity in their job search.
+
 
 # Mission
 
@@ -28,8 +34,15 @@
 - Resourcefulness
 - Daring
 
+# PuJobRaft Batch 1 Details (15 pax/Session)
+They will be split into **3** groups of **5 pax/group** under **Web Dev**, **Data Science** and **DevOps** over **3** sessions:
+
+- **30th March: 7 pm - 9:30 pm**
+- **13th April: 7 pm - 9:30 pm**
+- **27th April: 7 pm - 9:30 pm**
+
 
 # Documentation
-- [Standard Operating Procedure](docs/SOP.md)
+- [Standard Operating Procedure (SOP)](docs/SOP.md)
 - [Resource Document](docs/Resource_Document.md)
 - [Team Reflection](docs/Team_Reflections.md)
