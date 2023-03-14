@@ -1,3 +1,5 @@
+![Otter](https://github.com/pythonsingapore/pyjobraft/blob/main/assets/otter.png)
+
 # Job Search Support Group - PyJobRaft (Raft refers to a group of Ottters resting together)
 
 # Organising Team
