@@ -30,14 +30,6 @@
 
 
 # Documentation
-- **SOP**
-- **Resource Document**
-    - Courses
-    - Books
-    - Youtube/Podcast
-    - Upcoming meetups or conferences
-    - Workshops
-- **Team Reflection**
-    - Web Development
-    - DevOps
-    - Data Science
+- [Standard Operating Procedure](docs/SOP.md)
+- [Resource Document](docs/Resource_Document.md)
+- [Team Reflection](docs/Team_Reflections.md)

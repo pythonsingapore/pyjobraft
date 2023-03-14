@@ -1,3 +1,6 @@
+# Stand Operating Procedure
+This document contains everything you need to know for the PyJobRaft. From running a event, the team roles assignment to the process for the 3 sessions.
+
 # Support Group Session Breakdown
 
 1. **Introduction, Admin & Team Forming**
