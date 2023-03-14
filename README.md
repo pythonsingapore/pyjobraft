@@ -41,6 +41,13 @@ They will be split into **3** groups of **5 pax/group** under **Web Dev**, **Dat
 - **13th April: 7 pm - 9:30 pm**
 - **27th April: 7 pm - 9:30 pm**
 
+# Venue
+[Red Hat](https://www.redhat.com/en/services/consulting) is kindly hosting us for the 3 sessions.
+
+**Address**: 88 Market Street Level 45 CapitaSpring, Singapore 048948 
+
+(**Actual location of the room will be confirm tmr at 15 Mar 8 pm**)
+
 
 # Documentation
 - [Standard Operating Procedure (SOP)](docs/SOP.md)
