@@ -57,7 +57,7 @@ Come to **level 45 - to register there** and then someone will bring us up to **
       - Listing down the type of help they need and consolidating team reflection
       - Consolidation of the type of support or help they need for next session.
     - **Sharing Back of Discussion**
-      - A Representive from each team will be presenting their reflection as well as the type of help they need from the group.**(Capped at 10 mins per team)**
+      - A representative from each team will be presenting their reflection as well as the type of help they need from the group.**(Capped at 10 mins per team)**
     - **Complete Feedback Form for Session**
 
 4. **Topic 2 Learning  Discussion & Reflection**
@@ -69,7 +69,7 @@ Come to **level 45 - to register there** and then someone will bring us up to **
       - Listing down the type of help they need and consolidating team reflection
       - Consolidation of the type of support or help they need.
     - **Sharing Back of Discussion**
-      - A Representive from each team will be presenting their reflection as well as the type of help they need from the group.**(Capped at 10 mins per team)**
+      - A representative from each team will be presenting their reflection as well as the type of help they need from the group.**(Capped at 10 mins per team)**
     - **Complete Final Feedback Form for Session**
 
 # Event Logistics
