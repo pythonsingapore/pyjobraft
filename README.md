@@ -53,6 +53,6 @@ Come to **level 45 - register there** then someone will bring us up to **Level 4
 
 
 # Documentation
-- [Standard Operating Procedure (SOP)](docs/SOP.md)
-- [Resource Document](docs/Resource_Document.md)
-- [Team Reflection](docs/Team_Reflections.md)
+- [Standard Operating Procedure (SOP)](docs/SOP.md) - Any details related to how the session is run, team role allocation for each team. This also contains the list of task for future organisers who can refer and use the document as a reference to run their own job search support group. 
+- [Resource Document](docs/Resource_Document.md) - Any useful resources that anyone can use or could refer regardless if they had attended the 3 sessions.
+- [Team Reflection](docs/Team_Reflections.md) - The document contain each team's reflection & accountability of their own team member's progress after each session. This also contains the type of support as well without refering to the indivudal.
