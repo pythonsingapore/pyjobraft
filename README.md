@@ -1,6 +1,9 @@
 ![Otter](https://github.com/pythonsingapore/pyjobraft/blob/main/assets/otter.png)
 
-# Job Search Support Group - PyJobRaft (Raft refers to a group of Ottters resting together)
+# What is PyJobRaft?
+PyJobRaft is a job search support group for tech workers who are currently searching for a job in tech. We help them in gaining clarity and receive support from their peers or experienced tech advisors in their career journey in tech.
+
+I choose PyJobRaft because **raft** refers to a group of ottters (we love otters in SG) resting together.
 
 # Sponsors
 - [Python User Group Singapore](https://pugs.org.sg/)
