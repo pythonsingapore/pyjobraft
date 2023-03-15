@@ -37,7 +37,7 @@ I choose PyJobRaft because **raft** refers to a group of ottters (we love otters
 - Resourcefulness
 - Daring
 
-# PuJobRaft Batch 1 Details (15 pax/Session)
+# PyJobRaft Batch 1 Details (15 pax/Session)
 They will be split into **3** teams of **5 pax/team** under **Web Dev**, **Data Science** and **DevOps** over **3** sessions:
 
 - **30th March: 7 pm - 9:30 pm**
