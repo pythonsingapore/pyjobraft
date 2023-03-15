@@ -1,5 +1,5 @@
 # FAQ
-## PuJobRaft Details (15 pax/Session)
+## PyJobRaft Details (15 pax/Session)
 They will be split into **3** groups of **5 pax/group** under **Web Dev**, **Data Science** and **DevOps** over **3** sessions:
 
 - **30th March: 7 pm - 9:30 pm**
@@ -9,9 +9,10 @@ They will be split into **3** groups of **5 pax/group** under **Web Dev**, **Dat
 ## Where is the Event Venue?
 [Red Hat](https://www.redhat.com/en/services/consulting) is kindly hosting us for the 3 sessions.
 
-**Address**: 88 Market Street Level 45 CapitaSpring, Singapore 048948 
+**Address**: 88 Market Street Level 45 CapitaSpring, Singapore 048948
 
-(**Actual location of the room will be confirm tmr at 15 Mar 8 pm**)
+Come to **level 45 - to register there** and then someone will bring us up to **Level 46**
+
 
 ## What Will I Be Doing in The Group During The Session?
 - Anyone can ask for help in their team like example the peer-review of each other's resumes,
