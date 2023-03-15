@@ -50,7 +50,7 @@ Come to **level 45 - to register there** and then someone will bring us up to **
    - **Complete Feedback Form for Session**
 3. **Topic 1 Learning, Discussion & Reflection**
     - **Progress Update From Each Team**
-      - A Representive from each team will be presenting their progress.**(Capped 10 mins per team)**
+      - A representative from each team will be presenting their progress.**(Capped 10 mins per team)**
     - **Topic Discussion & Talk by Speaker**
     - **Discussion in Teams**:
       - Team discussion of the topic and what have they learned from it
@@ -62,7 +62,7 @@ Come to **level 45 - to register there** and then someone will bring us up to **
 
 4. **Topic 2 Learning  Discussion & Reflection**
     - **Progress Update From Each Team**
-      - A Representive from each team will be presenting their progress.**(Capped 10 mins per team)**
+      - A representative from each team will be presenting their progress.**(Capped 10 mins per team)**
     - **Topic Discussion & Talk by Speaker**
     - **Discussion in Teams**:
       - Team discussion of the topic and what have they learned from it
