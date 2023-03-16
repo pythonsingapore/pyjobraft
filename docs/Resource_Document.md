@@ -18,8 +18,11 @@ Please use the below example to add in the various portions of the section.
 - [The 9 Questions When Joining A Startup](https://www.maxongzb.com/the-9-questions-when-joining-a-startup-reading-time-4-mins/)
 
 # Courses
+- [How to Speak](https://youtu.be/Unzc731iCUY)
+- [MIT 6.034 Artificial Intelligence, Fall 2010 Playlist](https://youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 
-# Books
+
+## Books
 
 # Youtube/Podcast
 
