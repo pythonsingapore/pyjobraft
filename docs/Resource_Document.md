@@ -20,11 +20,13 @@ Please use the below example to add in the various portions of the section.
 # Courses
 - [How to Speak](https://youtu.be/Unzc731iCUY)
 - [MIT 6.034 Artificial Intelligence, Fall 2010 Playlist](https://youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
-
+- [Web Development Bootcamp in Udemy - Sign Up for a free account via NLB (for SG citizens and PR)](https://nlbsg.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12638830#overview)
 
 ## Books
 
 # Youtube/Podcast
+- [Tips to Improve Your LinkedIn Profile](https://www.youtube.com/watch?v=BcfGWi8Qywk&list=PLo-kPya_Ww2zqOZVXMNQCJeTNAaan8GcW)
+- [Angular Crash Course](https://www.youtube.com/watch?v=3dHNOWTI7H8)
 
 # Upcoming Meetups
 
