@@ -83,8 +83,20 @@ Come to **level 45 - to register there** and then someone will bring us up to **
 
 # Event Logistics
 - [ ] Venue - Securing the venue to run 3 sessions with 3 weeks gap in between
+  - [ ] Provide the **attendee list** to the venue sponsor to reduce the effort to attend the event
+  - [ ] A volunteer or a member of the organizing team has to be there at about 15-30 mins before the event to prepare
 - [ ] Speaker for topics - Search for speakers about the topic to be discussed within 3 weeks
-- [ ] Food - Ordering the food **one day** in advance and collection of food
+  - [ ] Ask the speaker to either create their own slides or use the [PyJobRaft template slides](https://docs.google.com/presentation/d/1axQYjh3UelkRnz6LAKiKSxLGsh9LtooqqNK2WSYeO34/edit?usp=sharing) as template on the event
+- [ ] Food - Ordering the food in **1 day** in advance and collection of food at the actual venue
+   - [ ] Check if there is food sponsorship from the **venue sponsor** if not refer to below on how this is done.
+   - [ ] Ordering Food for the Session
+      - [ ] Confirm the venue location and delivery pickup time for the food to be about 15-30 mins before the event. 
+      - [ ] Order 50% of the total amount of attendees and including the organisers for the event. 
+         - [ ] Orded from [Wrapup](https://www.wrapup.sg/) due being healthy and tasty. You can still order pizza
+         - [ ] Add the venue address along with your point of contact for the delivery person to call and liasion for the food. 
+         - [ ] Chicken Bowl - Ordered 80% of total bowl amount  
+         - [ ] Veg Bowl - Ordered 20% of total bowl amount  
+      - [ ] Keep a copy and sent the invoice of the final amount to the leadership team for reimbursement 
 - [ ] Session Registration - The registration booth
 - [ ] Documentations - Review and approve the updates from other users to the Github Repo
   - [SOP](docs/SOP.md)
