@@ -99,9 +99,9 @@ Come to **level 45 - to register there** and then someone will bring us up to **
       - [ ] Keep a copy and sent the invoice of the final amount to the leadership team for reimbursement 
 - [ ] Session Registration - The registration booth
 - [ ] Documentations - Review and approve the updates from other users to the Github Repo
-  - [SOP](docs/SOP.md)
-  - [Resource Document](docs/Resource_Document.md)
-  - [Team Reflection](docs/Team_Reflections.md)
+  - [SOP](https://github.com/pythonsingapore/pyjobraft/blob/main/docs/SOP.md)
+  - [Resource Document](https://github.com/pythonsingapore/pyjobraft/blob/main/docs/Resource_Document.md)
+  - [Team Reflection](https://github.com/pythonsingapore/pyjobraft/blob/main/docs/Team_Reflections.md)
 
 # Team Roles
 - **Leader** (Must Have) - Offer advice, consolidate feedback, lead discussions and offer support to other team members
