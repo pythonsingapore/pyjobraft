@@ -22,10 +22,10 @@ Please use the below example to add in the various portions of the section.
 - [MIT 6.034 Artificial Intelligence, Fall 2010 Playlist](https://youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 
 
-## Books
+# Books
 
 # Youtube/Podcast
-
+- [MIT 6.034 Artificial Intelligence, Fall 2010 by Prof. Patrick Winston](https://youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 # Upcoming Meetups
 
 # Conferences
