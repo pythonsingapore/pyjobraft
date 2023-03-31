@@ -92,7 +92,7 @@ Come to **level 45 - to register there** and then someone will bring us up to **
    - [ ] Ordering Food for the Session
       - [ ] Confirm the venue location and delivery pickup time for the food to be about 15-30 mins before the event. 
       - [ ] Order 50% of the total amount of attendees and including the organisers for the event. 
-         - [ ] Orded from [Wrapup](https://www.wrapup.sg/) due being healthy and tasty. You can still order pizza
+         - [ ] Orded from [Wrapup](https://www.wrapup.sg/) due to being healthy and tasty. You can still order pizza
          - [ ] Add the venue address along with your point of contact for the delivery person to call and liasion for the food. 
          - [ ] Chicken Bowl - Ordered 80% of total bowl amount  
          - [ ] Veg Bowl - Ordered 20% of total bowl amount  
