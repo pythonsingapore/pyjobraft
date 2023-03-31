@@ -1,4 +1,13 @@
 # FAQ
+
+## Table of Content
+- [PyJobRaft Details (15 pax/Session)](https://github.com/pythonsingapore/pyjobraft/edit/main/docs/SOP.md#pyjobraft-details-15-paxsession)
+- [ Where is the Event Venue?](https://github.com/pythonsingapore/pyjobraft/edit/main/docs/SOP.md#where-is-the-event-venue)
+- [What Will I Be Doing in The Group During The Session?](https://github.com/pythonsingapore/pyjobraft/edit/main/docs/SOP.md#what-will-i-be-doing-in-the-group-during-the-session)
+- [Support Group Session Breakdown](https://github.com/pythonsingapore/pyjobraft/edit/main/docs/SOP.md#support-group-session-breakdown)
+- [Event Logistics](https://github.com/pythonsingapore/pyjobraft/edit/main/docs/SOP.md#event-logistics)
+- [Team Roles](https://github.com/pythonsingapore/pyjobraft/edit/main/docs/SOP.md#team-roles)
+
 ## PyJobRaft Details (15 pax/Session)
 They will be split into **3** groups of **5 pax/group** under **Web Dev**, **Data Science** and **DevOps** over **3** sessions:
 
