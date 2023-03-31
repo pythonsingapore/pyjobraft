@@ -83,8 +83,8 @@ Come to **level 45 - to register there** and then someone will bring us up to **
   - [Team Reflection](docs/Team_Reflections.md)
 
 # Team Roles
-- **Leader** - Offer advice, consolidate feedback, lead discussions and offer support to other team members
+- **Leader** (Must Have) - Offer advice, consolidate feedback, lead discussions and offer support to other team members
 - **Assistant Leader** - Helps the leader in their own task as well as provides emotional support for the other team members
 - **Researcher** - Searches for information related to their industry, courses, job help, upcoming conferences, and career planning.
-- **Connector** - Tracks each of the team member’s job search progress and offers help to link up with group members to help solve their problem or provide a referral to a job.
-- **Secretary** - Takes down notes and documents what is discussed in each session for their own group. Working with other Connectors and Secretaries to maintain a **resource** document for everyone in the group to refer to or use.
+- **Connector** - Tracks each of the team member’s job search progress and offers help to link up with team members to help solve their problem or provide a referral to a job.
+- **Secretary** (Must Have) - Takes down notes and documents what is discussed in each session for their own team. Working with other Connectors and Secretaries to maintain a **resource** document for everyone in the group to refer to or use.
