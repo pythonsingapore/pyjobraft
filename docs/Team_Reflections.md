@@ -11,3 +11,9 @@ This document contains the team reflections on what they learned from each sessi
 
 # Data Science
 
+# Orgaizers
+- Over ordered the food, will be reminding everyone to take some home or have extra if they are feeling hungry - 31/03/2023
+- Over ordered the food, in future will just be getting 50% of total participates with organizers and volunteers portion only - 31/03/2023
+- Forgotten and had to last min prepare session slides. In the future will prepare slides to talk about the objective and things of today's session - 31/03/2023
+- Forgotten and had to last min in asking for account to use the CV uploading tech from Jobtech - 31/03/2023
+- Forgotten to add a feedback form in the presentation slide for participates to provide a feedback - 31/03/2023
