@@ -10,6 +10,12 @@ This document contains the team reflections on what they learned from each sessi
 # DevOps
 
 # Data Science
+#### 31 Mar 2023
+- Don't overthink, just dive straight into a specific area (such as NLP, CV, etc)
+- Learn/Study and build portfolio 
+- Importance of articulate and presentation skill
+- Hope to invite senior from the field to give insight for upcoming session
+- Should bring notebook (paper) or laptop to note down the reflection
 
 # Orgaizers
 - Over ordered the food, will be reminding everyone to take some home or have extra if they are feeling hungry - 31/03/2023
