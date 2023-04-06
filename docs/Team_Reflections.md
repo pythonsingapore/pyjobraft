@@ -2,7 +2,8 @@
 This document contains the team reflections on what they learned from each session. This allows sharing of reflections to members of the public as well as enforcing the understanding of each session to apply for their own uses. 
 
 ````
-- what have we learned? - DD/MM/YYYY
+#### DD MMM YYYY
+- what have we learned? 
 ````
 
 # Web Development
@@ -18,11 +19,12 @@ This document contains the team reflections on what they learned from each sessi
 - Should bring notebook (paper) or laptop to note down the reflection
 
 # Orgaizers
-- Over ordered the food, will be reminding everyone to take some home or have extra if they are feeling hungry - 31/03/2023
-- Over ordered the food, in future will just be getting 50% of total participates with organizers and volunteers portion only - 31/03/2023
-- Forgotten and had to last min prepare session slides. In the future will prepare slides to talk about the objective and things of today's session - 31/03/2023
-- Forgotten and had to last min in asking for account to use the CV uploading tech from Jobtech - 31/03/2023
-- Forgotten to add a feedback form in the presentation slide for participates to provide a feedback - 31/03/2023
+#### 31 Mar 2023
+- Over ordered the food, will be reminding everyone to take some home or have extra if they are feeling hungry
+- Over ordered the food, in future will just be getting 50% of total participates with organizers and volunteers portion only
+- Forgotten and had to last min prepare session slides. In the future will prepare slides to talk about the objective and things of today's session
+- Forgotten and had to last min in asking for account to use the CV uploading tech from Jobtech
+- Forgotten to add a feedback form in the presentation slide for participates to provide a feedback
 
 # Slides
 - Batch 1
