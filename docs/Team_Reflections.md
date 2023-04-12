@@ -29,3 +29,4 @@ This document contains the team reflections on what they learned from each sessi
 # Slides
 - Batch 1
   - [PyJobRaft Batch 1 Session 1 - 30/03/2023](https://docs.google.com/presentation/d/1yuvvgU8_FA-8kfDjvuvUeLR-0P3ZxOCwLDXoN2iApK0/edit?usp=sharing)
+  - [PyJobRaft Batch 1 Session 2 - 13/04/2023](https://docs.google.com/presentation/d/1oOLFyswzsikFLmTqxL5TTtx4GMUYgbuUDOutUxCHMLA/edit?usp=sharing)
