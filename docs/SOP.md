@@ -56,7 +56,7 @@ Come to **level 45 - to register there** and then someone will bring us up to **
      - Resource Document
      - Team Reflection
    - **Ask for topics for discussion and learning in the next 2 sessions.**
-   - **Complete Feedback Form for Session**
+   - **Complete Feedback Form for Session** - [PyJobRaft Feedback Form](https://bit.ly/pyjobraft-survey) or [https://bit.ly/pyjobraft-survey](https://bit.ly/pyjobraft-survey)
 3. **Topic 1 Learning, Discussion & Reflection**
     - **Progress Update From Each Team**
       - A representative from each team will be presenting their progress.**(Capped 10 mins per team)**
