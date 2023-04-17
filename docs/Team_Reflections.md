@@ -25,6 +25,9 @@ This document contains the team reflections on what they learned from each sessi
 - Forgotten and had to last min prepare session slides. In the future will prepare slides to talk about the objective and things of today's session
 - Forgotten and had to last min in asking for account to use the CV uploading tech from Jobtech
 - Forgotten to add a feedback form in the presentation slide for participates to provide a feedback
+####  13 Apr 2023
+- Change orderng of food from using Foodpanda to Grab
+- Change to just doing purely networking & watercooler session in a event that the turn up rate is low    
 
 # Slides
 - Batch 1
