@@ -7,7 +7,10 @@ Please use the below example to add in the various portions of the section.
 ````
 - [name](link_url)
 ````
-
+# PyJobRaft Slides
+- [PyJobRaft Batch 1 Session 1](https://bit.ly/pyjobraftb1s1)
+- [PyJobRaft Batch 1 Session 2](https://bit.ly/pyjobraftb1s2)
+- [PyJobRaft Batch 1 Session 3](https://bit.ly/pyjobraftb1s3)
 # Blog
 
 ## Data Science
