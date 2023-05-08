@@ -27,7 +27,11 @@ This document contains the team reflections on what they learned from each sessi
 - Forgotten to add a feedback form in the presentation slide for participates to provide a feedback
 ####  13 Apr 2023
 - Change orderng of food from using Foodpanda to Grab
-- Change to just doing purely networking & watercooler session in a event that the turn up rate is low    
+- Change to just doing purely networking & watercooler session in a event that the turn up rate is low
+####  27 Apr 2023
+- No issues related to grab delivery
+- Change to more variety of dishes from other shops for event
+- Write a After Action Review document for thoughts and changes moving forward for PyJobRaft. 
 
 # Slides
 - Batch 1
